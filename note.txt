@@ -1,0 +1,6 @@
+encrypt karanna oni nisa   bcrypt mindroid jar kiyal ekk downlord karala eka  lib kina oflder eke bcrypt kiyala twa folder ekak hadla ekata danna
+passe  project strucutr gihin libry gihin ekat add karanna
+(http://www.java2s.com/Code/Jar/j/Downloadjbcryptjar.htm   site eken gnna puluwn)
+
+
+sql connector eakt e widihatma folder ekah dala dagnna
