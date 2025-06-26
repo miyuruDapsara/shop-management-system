@@ -3,6 +3,8 @@ package dao.custom;
 import dao.CrudDao;
 import entity.ApplicationUser;
 
-public interface ApplicationUserDao extends CrudDao<ApplicationUser,String> {
+import java.sql.SQLException;
 
+public interface ApplicationUserDao extends CrudDao<ApplicationUser,String> {
+    public ApplicationUser findByEmail(String email) throws SQLException, ClassNotFoundException;
 }
